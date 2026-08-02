@@ -60,7 +60,6 @@
 
 </div>
 
-<sub>*The snake animation above needs a one-time GitHub Actions setup — see the note below.*</sub>
 
 <br/>
 
